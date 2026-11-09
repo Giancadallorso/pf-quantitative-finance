@@ -15,4 +15,10 @@ pip3 install -r requirements.txt
 git status
 
 #Agregar archivo
-git add ()
+git add 
+
+#Confirmar cambios
+git commit -m "backup"
+
+#cargar cambios al repositorio
+git push origin main
